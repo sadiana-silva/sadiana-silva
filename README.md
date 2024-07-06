@@ -9,4 +9,4 @@ Por meio dos projetos propostos ao longo do curso desenvolvi o trabalho em equip
 
 ☕ Atualmente estou me especializando Back-End na Trilha de Java do Instituto Caldeira.
 
-🎯 Busco oportunidades para poder atuar no mercado da tecnologia como desenvolvedora Junior e aplicar meus conhecimentos em Back-End, obtendo novas experiências e participando na confecção de projetos.
+🎯 Busco oportunidades para poder atuar no mercado da tecnologia como desenvolvedora Junior e aplicar meus conhecimentos em Back-End, obtendo novas experiências e agregando em novos projetos.
