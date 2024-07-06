@@ -1,4 +1,4 @@
-## Olá! Eu sou a Sadiana, bem-vindo(a) ao meu perfil 👋👋
+## Olá! Eu sou a Sadiana, bem-vindo(a) ao meu perfil 👋
 
 💪 Sou uma pessoa determinada e sonhadora, sempre em busca de aprimoramento constante.
 
