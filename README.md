@@ -1,10 +1,10 @@
-## Olá, bem-vindo(a) ao meu perfil 👋
+Desenvolvedora Back-end Júnior | Java & Spring | Gestão de Projetos
 
-Sou uma pessoa determinada e sonhadora, sempre em busca de aprimoramento constante.
-Estou cursando 4ª semestre no curso de administração, o que tem agregado para minhas noções de organização e planejamento. No momento, estou concolidadno meus conhecimento em programação no programa ONE, parceria de Alura + Oracle, com conteúdos abrangendo habilidades comportamentais e técnicas,  voltadas para o desenvolvimento full-stack.
+<p>💡 Foco atual: Aprofundar meus conhecimentos no ecossistema Java, Spring, banco de dados e APIs através do programa Oracle Next Education.
+<p>🚀 Buscando minha primeira oportunidade para colocar minhas habilidades em prática!
+<p>Fique à vontade para se conectar: [Linkedin](www.linkedin.com/in/sadiana-da-silva)
 
-Ingressei no mundo da programação em 2023 quando realizei um curso de Programação Web, e me maravilhei pelas diversas possibilidades inovadoras para solução de problemas e aprendizado em Front-End, Back-End e Banco de Dados com HTML, Javascript, CSS, PHP e MySQL. 
-Por meio dos projetos propostos ao longo do curso desenvolvi o trabalho em equipe e habilidade para trabalhar com metodologias ágeis.
-
-☕ Alumni Geração Caldeira 2024 - trilha de Java.
-🎯 Busco oportunidades para poder atuar no mercado da tecnologia como desenvolvedora Junior e aplicar meus conhecimentos em desenvolvimento, obtendo novas experiências e agregando em novos projetos.
+---
+🎓 **Formação e Cursos:**
+- **Bacharel em Administração:** Universidade La Salle (4/8)
+- **Alumni Geração Caldeira 2024:** Programação Java
